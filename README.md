@@ -19,7 +19,7 @@ Creating this game enabled me to practice a few aspects:
 This block of code was able to check each table row and column and assign either X or O for the table square based on the clicks in the square. This was the core function in order to the game run as it will impact directly each player's strategy.
 
 ```
-///Create a function that will check the square maker
+//Create a function that will check the square maker
 function maker() {
     if(this.textContent === ''){
         this.textContent = 'X';
