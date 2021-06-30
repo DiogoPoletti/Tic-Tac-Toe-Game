@@ -35,4 +35,5 @@ function maker() {
 > This is a companion project to Python 3.8 Full Stack Masterclass, check out the full course at www.udemy.com
 
 
+
 ![Footer Image](https://github.com/DiogoPoletti/Tic-Tac-Toe-Game/blob/main/Documentation/FooterImage.png)
